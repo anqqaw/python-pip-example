@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
       name='dokr',  
       version='0.1',
-      scripts=['dokr'] ,
+      scripts=['trail-parser'] ,
       author="Aarni Klemetti",
       author_email="aarni.klemetti@gmail.com",
       description="A Docker and AWS utility package",
